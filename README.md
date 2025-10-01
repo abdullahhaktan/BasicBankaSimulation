@@ -1,1 +1,1 @@
-# BankaTest
+# Basit Banka form uygulaması
