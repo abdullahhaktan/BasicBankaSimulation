@@ -17,3 +17,5 @@
 * **Müşteri ve Hesap Yönetimi:** Simülasyon ortamında yeni müşteri hesaplarının oluşturulmasına ve bu hesapların temel düzeyde yönetilmesine olanak tanır.
 * **İşlem Geçmişi Takibi:** Gerçekleştirilen finansal hareketlerin (yatırma/çekme) basit bir kayıt sisteminde takip edilmesini ve raporlanmasını destekler.
 * **Konsol Tabanlı Arayüz:** Simülasyonun basit ve hızlı çalışması için konsol (komut satırı) tabanlı kullanıcı arayüzü kullanır.
+
+<img width="539" height="413" alt="Ekran görüntüsü 2025-10-03 145115" src="https://github.com/user-attachments/assets/17fefce1-e2fe-45b8-a434-b27a9e55be47" />
