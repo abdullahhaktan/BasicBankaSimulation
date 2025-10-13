@@ -4,10 +4,12 @@
 
 **Temel Bankacılık İşlemleri Simülasyon Uygulaması**
 
-[![C#](https://img.shields.io/badge/Language-C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![OOP](https://img.shields.io/badge/Concept-OOP-orange.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-Console%20%7C%20Desktop%20App-informational.svg)]()
+[![C#](https://img.shields.io/badge/Language-C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+[![OOP](https://img.shields.io/badge/Concept-OOP-orange.svg)]() 
+[![Platform](https://img.shields.io/badge/Platform-Console%20%7C%20Desktop%20App-informational.svg)]() 
+[![MSSQL](https://img.shields.io/badge/Database-MSSQL-green.svg)](https://learn.microsoft.com/en-us/sql/sql-server/)
 [![GitHub repo size](https://img.shields.io/github/repo-size/abdullahhaktan/BasicBankaSimulation)](https://github.com/abdullahhaktan/BasicBankaSimulation)
+
 
 ---
 
